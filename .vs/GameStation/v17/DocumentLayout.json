@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z book G3\\source\\repos\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\wwwroot\\js\\games-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\wwwroot\\js\\games-index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\wwwroot\\js\\game-form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\wwwroot\\js\\game-form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\services\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\services\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|c:\\users\\z book g3\\source\\repos\\game\\game\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{10CC4E55-7CCC-4200-BAF7-38D180237358}|Game\\GameStation.csproj|solutionrelative:game\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Game\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "Game\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T13:21:28.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Game\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Game\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv28AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:17:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Game\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Game\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-12T12:58:05.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGamesService.cs",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Services\\IGamesService.cs",
+              "RelativeDocumentMoniker": "Game\\Services\\IGamesService.cs",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Services\\IGamesService.cs",
+              "RelativeToolTip": "Game\\Services\\IGamesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:51:04.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Game\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Game\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T12:42:37.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "games-index.js",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\games-index.js",
+              "RelativeDocumentMoniker": "Game\\wwwroot\\js\\games-index.js",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\games-index.js",
+              "RelativeToolTip": "Game\\wwwroot\\js\\games-index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-12T12:34:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game-form.js",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\game-form.js",
+              "RelativeDocumentMoniker": "Game\\wwwroot\\js\\game-form.js",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\game-form.js",
+              "RelativeToolTip": "Game\\wwwroot\\js\\game-form.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-12T12:34:00.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "Game\\Services\\GamesService.cs",
+              "ToolTip": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\Services\\GamesService.cs",
+              "RelativeToolTip": "Game\\Services\\GamesService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:13:46.23Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

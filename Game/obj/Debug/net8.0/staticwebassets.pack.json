@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameStation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\031d10f0-27f2-4415-a879-e5858c908056.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\031d10f0-27f2-4415-a879-e5858c908056.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\08955886-d1f2-463c-ab80-57bdefb48e66.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\08955886-d1f2-463c-ab80-57bdefb48e66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\12c68939-55ad-4ec0-a79e-311e74425da7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\12c68939-55ad-4ec0-a79e-311e74425da7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\3176d0a3-3b3a-4e67-856b-4a046aa56ccf.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\3176d0a3-3b3a-4e67-856b-4a046aa56ccf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\55f21546-9e5f-426f-9caa-d2d59823948a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\55f21546-9e5f-426f-9caa-d2d59823948a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\5714dc67-3320-43c5-ab89-d2cb4dbedc85.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\5714dc67-3320-43c5-ab89-d2cb4dbedc85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\59bc0132-3c3c-4eb9-b1f7-195110c9cdd7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\59bc0132-3c3c-4eb9-b1f7-195110c9cdd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\8c49a09b-801b-4874-abac-5d8148daa586.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\8c49a09b-801b-4874-abac-5d8148daa586.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\a73c6d9e-d142-432f-bc12-ef43dde75a9f.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\a73c6d9e-d142-432f-bc12-ef43dde75a9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\a8a95f13-e355-4dc8-8b10-0458afebd90b.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\a8a95f13-e355-4dc8-8b10-0458afebd90b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\ae4bb281-d7c6-44ed-8382-71c72253abd1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\ae4bb281-d7c6-44ed-8382-71c72253abd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\cb3ab262-d7c4-4e6d-9155-d9bb0936f3b5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\cb3ab262-d7c4-4e6d-9155-d9bb0936f3b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\assets\\images\\games\\d2a42f16-b541-4343-b9ea-4d4add8e8b07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\d2a42f16-b541-4343-b9ea-4d4add8e8b07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\filesize-validator.js",
+      "PackagePath": "staticwebassets\\js\\filesize-validator.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\game-form.js",
+      "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\games-index.js",
+      "PackagePath": "staticwebassets\\js\\games-index.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Z book G3\\source\\repos\\Game\\Game\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameStation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameStation.props",
+      "PackagePath": "build\\GameStation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameStation.props",
+      "PackagePath": "buildMultiTargeting\\GameStation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameStation.props",
+      "PackagePath": "buildTransitive\\GameStation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
